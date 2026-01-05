@@ -1,4 +1,4 @@
-import "./App.css";
+import "./index.css";
 
 const RitmStyle = () => {
   return (
@@ -16,17 +16,11 @@ const RitmStyle = () => {
           </p>
         </div>
 
-        <img src="/ritmstyle.png"
-         alt="massage" 
-         className="ritm-img"
-          />
+        <img src="/ritmstyle.png" alt="massage" className="ritm-img" />
       </div>
 
       <div className="ritm-block-reverse">
-        <img src="/ritmstyle.png" 
-        alt="water"
-         className="ritm-img"
-          />
+        <img src="/ritmstyle.png" alt="water" className="ritm-img" />
 
         <div className="ritm-text">
           <h3>RitmStyle гидротерапия</h3>
