@@ -1,11 +1,11 @@
-export const Todo = () => {
+import RitmStyle from "./components/RitmStyle";
+
+const App = () => {
   return (
     <>
-      <div>
-        <h1>hello</h1>
-      </div>
+      <RitmStyle />
     </>
   );
 };
 
-export default Todo;
+export default App;
